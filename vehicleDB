@@ -1,0 +1,64 @@
+{
+ [
+  {
+    "Id": "c4801411-bff0-4fd2-8f46-358532001143",
+    "Make": "Toyota Camry",
+	"Type": "Sedan",
+    "Model": "XLR",
+	"Year": 2020,
+	"Mileage": 10,
+	"DailyRate": "$56",
+	"WeeklyRate": "$420",
+	"MonthlyRate": "$1280",
+    "Image_url": "https://api.adorable.io/avatars/19"
+  },
+  {
+    "Id": "c4801411-bff0-4fd2-8f46-358532001143",
+    "Make": "Toyota Camry",
+	"Type": "Sedan",
+    "Model": "XLR",
+	"Year": 2020,
+	"Mileage": 10,
+	"DailyRate": "$56",
+	"WeeklyRate": "$420",
+	"MonthlyRate": "$1280",
+    "Image_url": "https://api.adorable.io/avatars/19"
+  },
+  {
+    "Id": "c4801411-bff0-4fd2-8f46-358532001143",
+    "Make": "Toyota Camry",
+	"Type": "Sedan",
+    "Model": "XLR",
+	"Year": 2020,
+	"Mileage": 10,
+	"DailyRate": "$56",
+	"WeeklyRate": "$420",
+	"MonthlyRate": "$1280",
+    "Image_url": "https://api.adorable.io/avatars/19"
+  },
+  {
+    "Id": "c4801411-bff0-4fd2-8f46-358532001143",
+    "Make": "Toyota Camry",
+	"Type": "Sedan",
+    "Model": "XLR",
+	"Year": 2020,
+	"Mileage": 10,
+	"DailyRate": "$56",
+	"WeeklyRate": "$420",
+	"MonthlyRate": "$1280",
+    "Image_url": "https://api.adorable.io/avatars/19"
+  },
+  {
+    "Id": "e284308e-4462-4a1b-99d1-328a0c08fe27",
+    "Make": "Toyota Corola",
+	"Type": "Sedan",
+    "Model": "XLR",
+	"Year": 2020,
+	"Mileage": 10,
+	"DailyRate": "$56",
+	"WeeklyRate": "$420",
+	"MonthlyRate": "$1280",
+    "Image_url": "https://api.adorable.io/avatars/19"
+  }
+  ]
+}
