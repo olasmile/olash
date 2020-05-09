@@ -1,5 +1,4 @@
-{
- [
+[
   {
     "Id": "c4801411-bff0-4fd2-8f46-358532001143",
     "Make": "Toyota Camry",
@@ -60,5 +59,4 @@
 	"MonthlyRate": "$1280",
     "Image_url": "https://api.adorable.io/avatars/19"
   }
-  ]
-}
+]
