@@ -5,7 +5,7 @@
     "Make": "Toyota Camry",
     "Model": "XLR",
     "Year": 2020,
-    "Mileage": 10,
+    "Mileage": 4300,
     "DailyRate": "56",
     "WeeklyRate": "410",
     "MonthlyRate": "1280",
@@ -14,59 +14,59 @@
     "ReservedBy": "b4801411-cff0-4fe2-8g46-378832001143"
   },
   {
-    "Id": "c4801411-bff0-4fd2-8f46-358532001143",
+    "Id": "c4801411-bff0-4fd2-8f46-358532001144",
     "Type": "Sportback",
     "Make": "Audi",
     "Model": "A5 2.0t Premium Quattro",
     "Year": 2019,
-    "Mileage": 10,
+    "Mileage": 101,
     "DailyRate": "$500",
     "WeeklyRate": "$1000",
     "MonthlyRate": "$1500",
     "Image_url": "https://s.aolcdn.com/dims-global/dims3/GLOB/thumbnail/700x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC80AUC194A021001.jpg",
     "IsReserved": true,
-    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832001143"
+    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832001423"
   },
   {
-    "Id": "c4801411-bff0-4fd2-8f46-358532001143",
+    "Id": "c4801411-bff0-4fd2-8f46-358532001145",
     "Type": "Sedan",
-    "Make": "Toyota Camry",
+    "Make": "Honda Civic",
     "Model": "XLR",
     "Year": 2020,
-    "Mileage": 10,
+    "Mileage": 1022,
     "DailyRate": "$56",
     "WeeklyRate": "$420",
     "MonthlyRate": "$1280",
     "Image_url": "https://api.adorable.io/avatars/19",
     "IsReserved": true,
-    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832001143"
+    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832002143"
   },
   {
-    "Id": "c4801411-bff0-4fd2-8f46-358532001143",
+    "Id": "c4801411-bff0-4fd2-8f46-3585320011434543",
     "Type": "Sedan",
-    "Make": "Toyota Camry",
+    "Make": "Toyota Corolla",
     "Model": "XLR",
     "Year": 2020,
-    "Mileage": 10,
+    "Mileage": 1032,
     "DailyRate": "$56",
     "WeeklyRate": "$420",
     "MonthlyRate": "$1280",
     "Image_url": "https://api.adorable.io/avatars/19",
     "IsReserved": true,
-    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832001143"
+    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832011143"
   },
   {
-    "Id": "c4801411-bff0-4fd2-8f46-358532001143",
+    "Id": "c4801411-bff0-4fd2-8f46-358532001243",
     "Type": "Sedan",
-    "Make": "Toyota Camry",
+    "Make": "Cardillac Escalade",
     "Model": "XLR",
     "Year": 2020,
-    "Mileage": 10,
-    "DailyRate": "$56",
-    "WeeklyRate": "$420",
-    "MonthlyRate": "$1280",
+    "Mileage": 102,
+    "DailyRate": "$76",
+    "WeeklyRate": "$530",
+    "MonthlyRate": "$1290",
     "Image_url": "https://api.adorable.io/avatars/19",
     "IsReserved": true,
-    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832001143"
+    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832022143"
   }
 ]
