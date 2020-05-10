@@ -9,7 +9,7 @@
     "DailyRate": "44",
     "WeeklyRate": "308",
     "MonthlyRate": "1232",
-    "Image_url": "https://api.adorable.io/avatars/19",
+    "Image_url": "https://images.hgmsites.net/hug/toyota-camry_100720257_h.jpg",
     "IsReserved": true,
     "ReservedBy": "b4801411-cff0-4fe2-8g46-378832001143"
   },
@@ -37,7 +37,7 @@
     "DailyRate": "50",
     "WeeklyRate": "350",
     "MonthlyRate": "1400",
-    "Image_url": "https://api.adorable.io/avatars/19",
+    "Image_url": "https://docs.spm247.com/ftpcs/2020/Honda/Civic/2020HondaCivic-exterior-01.jpg",
     "IsReserved": true,
     "ReservedBy": "b4801411-cff0-4fe2-8g46-378832102143"
   },
@@ -51,26 +51,26 @@
     "DailyRate": "56",
     "WeeklyRate": "392",
     "MonthlyRate": "1568",
-    "Image_url": "https://api.adorable.io/avatars/12",
+    "Image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-toyota-corolla-106leadgallery-1542230180.jpg",
     "IsReserved": true,
-    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832011143"
+    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832011149"
   },
   {
     "Id": "c4801411-bff0-4fd2-8f46-358532601243",
-    "Type": "Sedan",
-    "Make": "Cardillac Escalade",
-    "Model": "XLR",
+    "Type": "SUV",
+    "Make": "Cardillac",
+    "Model": "Escalade",
     "Year": 2020,
     "Mileage": 102,
     "DailyRate": "$76",
     "WeeklyRate": "$532",
     "MonthlyRate": "2128",
-    "Image_url": "https://api.adorable.io/avatars/17",
+    "Image_url": "https://cdn.carbuzz.com/gallery-images/840x560/665000/300/665302.jpg",
     "IsReserved": true,
     "ReservedBy": "b4801411-cff0-4fe2-8g46-378832022143"
   },
    {
-    "Id": "c4801411-bff0-4fd2-8f46-358532601243",
+    "Id": "c4801411-bff0-4fd2-8f46-358532601253",
     "Type": "SUV",
     "Make": "Cardillac ",
     "Model": "Escalade",
@@ -79,8 +79,8 @@
     "DailyRate": "86",
     "WeeklyRate": "602",
     "MonthlyRate": "2408",
-    "Image_url": "https://api.adorable.io/avatars/17",
+    "Image_url": "https://www.motortrend.com/uploads/sites/5/2020/02/2021-Cadillac-Escalade-3.jpg?fit=around%7C875:492",
     "IsReserved": true,
-    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832022143"
+    "ReservedBy": "b4801411-cff0-4fe2-8g46-378832029143"
   }
 ]
